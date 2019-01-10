@@ -1,6 +1,6 @@
 # egg-chain
-Blockchain based product traceability sample for eggs ;)
-A more general strucure for tracing different types of product is available at: https://github.com/nilinco/tracer-contract.git
+Blockchain based product traceability sample for eggs ;)  
+More general contracts for tracing different types of products is now available at: https://github.com/nilinco/tracer-contract.git
 
 ## additional explaine
 in this sample we tried to built contract for egg production and tracking it from farm to factory
